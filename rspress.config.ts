@@ -14,5 +14,8 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', mode: 'link', content: 'https://github.com/andy7076' },
     ],
-  },
+    footer: {
+      message: '© 2023 wuyuezhan. All Rights Reserved.'
+    }
+  }
 });
