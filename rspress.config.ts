@@ -2,6 +2,7 @@ import * as path from 'path';
 import { defineConfig } from 'rspress/config';
 
 export default defineConfig({
+  lang: 'zh',
   root: path.join(__dirname, 'docs'),
   title: `andy7076's blog`,
   description: 'Just a technical sharing.',
