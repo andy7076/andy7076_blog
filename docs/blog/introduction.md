@@ -1,5 +1,3 @@
 ### introduction
 
-```md
-# introduction
-```
+just introduction
