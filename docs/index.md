@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Enter the Blog
-      link: /blog/introduction
+      link: /blog/Menu
     - theme: alt
       text: Github
       link: https://github.com/andy7076
