@@ -13,5 +13,10 @@
     "type": "file",
     "name": "20231202_01",
     "label": "[AIGC]图像生成AI: Midjourney、Stable Diffusion"
+  },
+  {
+    "type": "file",
+    "name": "20231203_01",
+    "label": "屏幕坐标和窗口通信"
   }
 ]
