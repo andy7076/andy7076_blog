@@ -1,6 +1,7 @@
 ### Menu
 
++ [移动端适配方案01](https://yyfollower.com/blog/20231204_01.html)
 + [屏幕坐标和窗口通信](https://yyfollower.com/blog/20231203_01.html)
-+ [2023120201 [AIGC]图像生成AI: Midjourney、Stable Diffusion](https://yyfollower.com/blog/20231202_01.html)
-+ [2023120101 使用Github,PicGo搭建图床](https://yyfollower.com/blog/20231201_01.html)
++ [[AIGC]图像生成AI: Midjourney、Stable Diffusion](https://yyfollower.com/blog/20231202_01.html)
++ [使用Github,PicGo搭建图床](https://yyfollower.com/blog/20231201_01.html)
 + [Funny Api](https://yyfollower.com/blog/funny.html)
