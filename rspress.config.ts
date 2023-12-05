@@ -17,6 +17,7 @@ export default defineConfig({
     ],
     footer: {
       message: '© 2023 wuyuezhan. All Rights Reserved.'
-    }
-  }
+    },
+    lastUpdated: true
+  },
 });
