@@ -3,5 +3,10 @@
     "text": "Blog",
     "link": "/blog/Menu",
     "activeMatch": "/blog/Menu"
+  },
+  {
+    "text": "Contact",
+    "link": "/contact/Contact",
+    "activeMatch": "/contact/Contact"
   }
 ]
