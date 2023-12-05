@@ -13,6 +13,6 @@ hero:
       text: Github
       link: https://github.com/andy7076
   image:
-    src: /rspress-icon.png
+    src: /rspress-icon-round.png
     alt: andy7076's blog Logo
 ---

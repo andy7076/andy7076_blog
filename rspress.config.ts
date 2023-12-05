@@ -6,7 +6,7 @@ export default defineConfig({
   root: path.join(__dirname, 'docs'),
   title: `andy7076's blog`,
   description: 'Just a technical sharing.',
-  icon: '/rspress-icon.png',
+  icon: '/rspress-icon-round.png',
   logo: {
     light: '/rspress-light-logo.png',
     dark: '/rspress-dark-logo.png',
