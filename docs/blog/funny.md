@@ -26,3 +26,13 @@ document.documentElement.style.fontSize
 window.getComputedStyle(document.documentElement, null).getPropertyValue('font-size')
 '16px'
 ```
+
+4. {JSON} Placeholder 模拟数据Api
+
+Free fake API for testing and prototyping.
+https://jsonplaceholder.typicode.com/
+```js
+fetch('https://jsonplaceholder.typicode.com/todos/1')
+      .then(response => response.json())
+      .then(json => console.log(json))
+```
