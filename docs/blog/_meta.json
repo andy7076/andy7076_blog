@@ -1,8 +1,8 @@
 [
   {
     "type": "file",
-    "name": "Menu",
-    "label": "***【Menu】***"
+    "name": "Started",
+    "label": "【Get Started】"
   },
   {
     "type": "file",
@@ -36,7 +36,7 @@
   },
   {
     "type": "file",
-    "name": "funny",
-    "label": "Just Funny"
+    "name": "others",
+    "label": "Just jotting things down."
   }
 ]

@@ -20,4 +20,10 @@ export default defineConfig({
     },
     lastUpdated: true
   },
+  globalUIComponents: [
+    [
+      path.join(__dirname, 'components', 'CustomFooter.tsx'),
+      {},
+    ]
+  ],
 });

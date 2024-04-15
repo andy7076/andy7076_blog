@@ -1,4 +1,4 @@
-# Just Funny
+# Just jotting things down.
 
 1. URL获取query指定参数
 ``` js
